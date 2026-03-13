@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:e94560&height=220&section=header&text=YASH%20GUPTA&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Researcher%20%7C%20Builder&descAlignY=58&descSize=22&descColor=e2e2e2&animation=fadeIn&stroke=e94560&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:e94560&height=220&section=header&text=YASH%20GUPTA&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=22&descColor=e2e2e2&animation=fadeIn&stroke=e94560&strokeWidth=2"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=e94560&center=true&vCenter=true&width=650&lines=⟩+compiling+thoughts+into+code...;⟩+500%2B+problems+%7C+0+unsolved+mindsets;⟩+Code.+Build.+Deploy.+Repeat.;⟩+IEEE+Published+%40+21+years+old;⟩+Built+for+real+labs%2C+not+just+laptops;⟩+next+commit%3A+something+legendary" />
 <br/>
