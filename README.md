@@ -27,7 +27,7 @@
 
 | 🎓 | 💼 | 📄 | 🧠 | 🚀 |
 |:---:|:---:|:---:|:---:|:---:|
-| **B.Tech CSE** | **ARIES Intern** | **IEEE Published** | **500+ Problems** | **Current Mission** |
+| **B.Tech CSE** | **Ex-ARIES Intern** | **IEEE Published** | **500+ Problems** | **Current Mission** |
 | Graphic Era Hill Univ | Nainital Observatory | ICECAA 2023 | LeetCode · GfG · CodeChef | Ship. Scale. Repeat. |
 | `CGPA: 8.41` | `Python · Odoo · Linux` | `AI in Biometrics` | `100-day streaks 🔥` |  `Ship code. Not excuses.` |
 
