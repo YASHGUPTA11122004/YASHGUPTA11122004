@@ -146,14 +146,16 @@ Graphic Era Hill University
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YASHGUPTA11122004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHGUPTA11122004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YASHGUPTA11122004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHGUPTA11122004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YASHGUPTA11122004&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=c9d1d9&dates=8b949e" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=YASHGUPTA11122004&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=c9d1d9&dates=8b949e&cache_seconds=1800" width="500"/>
 
 </div>
+
 
 ---
 
